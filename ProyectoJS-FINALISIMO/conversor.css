@@ -1,0 +1,26 @@
+.texto{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.conversor{
+    text-align: center;
+    padding-top: 75px;
+}
+#dolares{
+    width: 50%;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.total{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.btn{
+    margin-left:auto;
+    margin-right: auto;
+
+}
